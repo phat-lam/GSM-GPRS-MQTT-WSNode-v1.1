@@ -1,4 +1,4 @@
-MQTT server dã du?c setup t?i d?a ch? agriconnect.vn
-?Quy?n truy c?p:
-- Vô danh: có th? d?c b?t c? topic nào.
-- Ð? có th? publish, ph?i login v?i username/password sau: node/654321?
+Dia chi: agriconnect.vn
+Quyen truy cap:
+1. Vo danh: co the xem bat cu topic nao.
+2. De co the publish, phai login voi username/password sau: node/654321
