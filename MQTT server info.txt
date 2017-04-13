@@ -1,0 +1,4 @@
+MQTT server dã du?c setup t?i d?a ch? agriconnect.vn
+?Quy?n truy c?p:
+- Vô danh: có th? d?c b?t c? topic nào.
+- Ð? có th? publish, ph?i login v?i username/password sau: node/654321?
