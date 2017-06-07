@@ -103,7 +103,7 @@ void loop()
   timer1.run();
 }
 /*-------------------------- ( END LOOP FUNC ) -----------------------------*/
-/*--------------------------( Declare User-written Functions )--------------*/
+/*-------------------------- ( Declare User-written Functions )--------------*/
 void timer_isr()
 {
   // Rain
@@ -180,7 +180,7 @@ boolean isGPRSReady(){
   }
 }
 
-void sendMQTTMessage(char* clientId, char* brokerUrl, char* brokerPort, char* topic, char* message){
+void sendMQTTMessage(char* clientId, char* brokerUrl, char* brokerPort, char* topic, char* message) {
   altSerial.println("AT"); // Sends AT command to wake up cell phone
   Serial.println("send AT to wake up GPRS");
   delay(1000); // Wait a second
